@@ -1,7 +1,7 @@
 # Experiment 6: Joins
 
-### Name : RABI BASKAR PRABURAJAN
-### Reg No :212224040257
+### Name : THARUN DANIEL Y
+### Reg No :212224050054
 
 ## AIM
 To study and implement different types of joins.
